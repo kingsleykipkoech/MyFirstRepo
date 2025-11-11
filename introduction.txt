@@ -1,0 +1,3 @@
+Brief Introduction About Myself
+
+This repository is for practicing Git and GitHub workflows. I am excited to learn how to manage my projects efficiently from the command line.
