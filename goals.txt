@@ -1,0 +1,5 @@
+My Personal and Academic Goals for Next Year
+
+- Goal 1: Achieve proficiency in Zsh scripting.
+- Goal 2: Complete the Linux certification course.
+- Goal 3: Contribute to an open-source project on GitHub.
