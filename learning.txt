@@ -1,2 +1,2 @@
-[what I have learned from this course]
-Since the start of school I came to focus on doing task directly from terminal. This has really fastend the work progress
+What I have learned from this course
+I've learnt from the Linux course various aspects of git commands, I have also learnt how to fork repositories and initiate pull requests which i was not aware previously
