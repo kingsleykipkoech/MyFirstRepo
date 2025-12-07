@@ -1,2 +1,1 @@
-#what I have learned from this course
-Since the start of SE i have been able to mange tasks dirctly form my terminal.This has reakyy  fastened the progress of doing tasks.
+ ["since the start of se i vcame to focus on doing task directly from terminal. This has realy fastened the work progress"]
