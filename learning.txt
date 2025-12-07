@@ -1,1 +1,2 @@
- ["since the start of se i vcame to focus on doing task directly from terminal. This has realy fastened the work progress"]
+[what I have learned from this course]
+Since the start of school I came to focus on doing task directly from terminal. This has really fastend the work progress
